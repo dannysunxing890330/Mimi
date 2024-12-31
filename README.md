@@ -1,0 +1,2 @@
+# Mimi
+Chinese translation
